@@ -1,5 +1,5 @@
 # go-interview
-prepare uranus!
+prepare uranus and fight!
 
 [push me](1.md)
 
