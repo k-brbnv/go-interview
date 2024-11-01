@@ -23,6 +23,7 @@ CREATE TABLE chat(
     name VARCHAR (100) NOT NULL, 
     created DATETIME
 ) ;
+
 CREATE TABLE message (
     id INT PRIMARY KEY AUTOINCREMENT, 
     user_id INT NOT NULL, 
